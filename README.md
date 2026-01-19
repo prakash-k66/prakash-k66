@@ -6,11 +6,11 @@
 <h3 align="center">Aspiring AI & Machine Learning Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=flat-square" />
+  <a href="https://github.com/your-prakash-k66">
+    <img src="https://img.shields.io/github/followers/prakash-k66?label=Followers&style=flat-square" />
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/stars/your-username?label=Stars&style=flat-square" />
+  <a href="https://github.com/prakash-k66">
+    <img src="https://img.shields.io/github/stars/prakash-k66?label=Stars&style=flat-square" />
   </a>
 </p>
 
