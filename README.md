@@ -23,9 +23,7 @@ I enjoy building **real-world, problem-solving applications** and learning by do
 
 - 🎓 Engineering student  
 - 🤖 Interested in **AI, ML, and LLM-based applications**
-- 🧠 Learning **DSA, System Design, and Backend Development**
-- 🌍 Career goal: **Work abroad (USA / Germany / UK)**
-- 🔍 Passionate about turning ideas into working products
+
 
 ---
 
@@ -33,9 +31,6 @@ I enjoy building **real-world, problem-solving applications** and learning by do
 
 - Artificial Intelligence & Machine Learning  
 - Large Language Models (LLMs)  
-- Backend Development  
-- Full-Stack Web Applications  
-- Data Structures & Algorithms  
 - Real-World Project Building  
 
 ---
@@ -44,7 +39,6 @@ I enjoy building **real-world, problem-solving applications** and learning by do
 
 ### 👨‍💻 Programming Languages
 - Python  
-- C  
 - Java (Basic)
 
 ### 🤖 AI / ML
@@ -55,7 +49,6 @@ I enjoy building **real-world, problem-solving applications** and learning by do
 
 ### 🌐 Web Development
 - Flask  
-- FastAPI  
 - HTML, CSS  
 - REST APIs
 
@@ -63,7 +56,6 @@ I enjoy building **real-world, problem-solving applications** and learning by do
 - Git & GitHub  
 - VS Code  
 - JSON-based Databases  
-- Linux (Basics)
 
 ---
 
@@ -89,7 +81,6 @@ I enjoy building **real-world, problem-solving applications** and learning by do
 ## 📈 What I’m Currently Learning
 
 - Data Structures & Algorithms (from scratch)  
-- Mathematics for Machine Learning  
 - Advanced Python & OOPs  
 - System Design Basics  
 - Deployment & GitHub best practices  
