@@ -54,8 +54,7 @@ I enjoy building **real-world, problem-solving applications** and learning by do
 
 ### 🧰 Tools & Platforms
 - Git & GitHub  
-- VS Code  
-- JSON-based Databases  
+- VS Code   
 
 ---
 
@@ -82,8 +81,6 @@ I enjoy building **real-world, problem-solving applications** and learning by do
 
 - Data Structures & Algorithms (from scratch)  
 - Advanced Python & OOPs  
-- System Design Basics  
-- Deployment & GitHub best practices  
 
 ---
 
