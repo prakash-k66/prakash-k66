@@ -18,12 +18,8 @@
 
 ## 🚀 About Me
 
-I am an **engineering student (2nd year)** with a strong interest in **Artificial Intelligence, Machine Learning, and Software Development**.  
-I enjoy building **real-world, problem-solving applications** and learning by doing.
-
-- 🎓 Engineering student  
-- 🤖 Interested in **AI, ML, and LLM-based applications**
-
+I am an Pre-final student with a strong interest in **Artificial Intelligence and Machine Learning 
+I enjoy building real-world, problem-solving applications and learning by doing.
 
 ---
 
