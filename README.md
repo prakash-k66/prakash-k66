@@ -83,7 +83,7 @@ I enjoy building real-world, problem-solving applications and learning by doing.
 ## 🤝 Connect With Me
 
 - 💻 GitHub: https://github.com/prakash-k66
-- 📧 Email: your-prakashkmp12@gmail.com
+- 📧 Email: prakashkmp12@gmail.com
 - 🔗 LinkedIn:https://www.linkedin.com/in/prakash-k-239846283/
 
 ---
